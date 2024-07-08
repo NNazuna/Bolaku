@@ -1,7 +1,5 @@
 # BOLAKU
 
-![BOLAKU Logo](https://pngtree.com/freepng/soccer-ball-on-white-over-grey-background-football-oldstyle_14964840.html))
-
 BOLAKU adalah sebuah sistem informasi sepak bola yang berfokus pada Liga Premier Inggris. Aplikasi ini bertujuan untuk menyediakan informasi edukatif tentang sepak bola, mempermudah pengguna dalam mengakses jadwal dan statistik tim maupun pemain, serta meningkatkan kesadaran dan pengetahuan masyarakat tentang Liga Premier Inggris.
 
 ## Fitur Utama
@@ -69,4 +67,3 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di [dedhanof@gmai
 
 ---
 
-![BOLAKU Banner](https://x.com/premierleague/status/1646469550106345472/photo/1)
