@@ -36,7 +36,7 @@ BOLAKU adalah sebuah sistem informasi sepak bola yang berfokus pada Liga Premier
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/bolaku.git
+    git clone https://github.com/NNazuna/bolaku.git
     ```
 
 2. Masuk ke direktori proyek:
